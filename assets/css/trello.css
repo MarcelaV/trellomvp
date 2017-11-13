@@ -41,4 +41,38 @@ body{
 	background: grey;
 	padding: 1em;
 	box-sizing: border-box;
+	display: inline-block;
+}
+
+/*.linea{
+	position: absolute;
+	top: 10%;
+	left: 30%;
+}*/
+
+.tarjeta{
+	/*border: solid;*/
+	display: inline-block;
+	margin-left: 3%;
+	margin-top: -60%;
+	color: white;
+	width: 17%;
+	height: 13%;
+	background: grey;
+	padding: 1em;
+	box-sizing: border-box;
+}
+
+.textotrello{
+	
+}
+
+.timeline{
+	color: white;
+	width: 25%;
+	height: 15%;
+	background: grey;
+	padding: 1em;
+	box-sizing: border-box;
+	display: inline-block;
 }
